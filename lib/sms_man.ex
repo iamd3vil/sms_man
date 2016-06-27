@@ -1,0 +1,2 @@
+defmodule SmsMan do
+end
